@@ -1,6 +1,6 @@
 package com.codechallenge.data.remote.mapper
 
-import com.codechallenge.domain.model.DogBreed
+import com.codechallenge.core.domain.model.DogBreed
 
 fun String.toDogBreed(): DogBreed {
     return DogBreed(

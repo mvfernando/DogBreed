@@ -1,4 +1,4 @@
-package com.codechallenge.domain.model
+package com.codechallenge.core.domain.model
 
 data class DogBreed(
     val name: String,

@@ -5,7 +5,7 @@ import assertk.assertThat
 import assertk.assertions.isEqualTo
 import com.codechallenge.core.test.TestDispatcherRule
 import com.codechallenge.data.FakeDogRepository
-import com.codechallenge.domain.model.DogBreed
+import com.codechallenge.core.domain.model.DogBreed
 import kotlinx.coroutines.test.runTest
 import org.junit.Before
 import org.junit.Rule

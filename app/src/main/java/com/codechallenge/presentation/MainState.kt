@@ -1,6 +1,6 @@
 package com.codechallenge.presentation
 
-import com.codechallenge.domain.model.DogBreed
+import com.codechallenge.core.domain.model.DogBreed
 
 
 sealed class MainState {

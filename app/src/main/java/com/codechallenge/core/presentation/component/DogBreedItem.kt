@@ -28,7 +28,7 @@ import coil.compose.AsyncImagePainter
 import coil.compose.SubcomposeAsyncImage
 import coil.compose.SubcomposeAsyncImageContent
 import com.codechallenge.R
-import com.codechallenge.domain.model.DogBreed
+import com.codechallenge.core.domain.model.DogBreed
 
 @Composable
 fun DogBreedItem(

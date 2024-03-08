@@ -1,6 +1,6 @@
-package com.codechallenge.domain.repository
+package com.codechallenge.core.domain.repository
 
-import com.codechallenge.domain.model.DogBreed
+import com.codechallenge.core.domain.model.DogBreed
 
 interface DogRepository {
 

@@ -8,7 +8,7 @@ import androidx.compose.ui.test.onNodeWithTag
 import androidx.compose.ui.test.onNodeWithText
 import com.codechallenge.R
 import com.codechallenge.core.presentation.component.DogBreedItem
-import com.codechallenge.domain.model.DogBreed
+import com.codechallenge.core.domain.model.DogBreed
 import org.junit.Before
 import org.junit.Rule
 import org.junit.Test

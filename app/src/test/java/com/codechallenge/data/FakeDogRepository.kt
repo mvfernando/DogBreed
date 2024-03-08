@@ -1,7 +1,7 @@
 package com.codechallenge.data
 
-import com.codechallenge.domain.model.DogBreed
-import com.codechallenge.domain.repository.DogRepository
+import com.codechallenge.core.domain.model.DogBreed
+import com.codechallenge.core.domain.repository.DogRepository
 
 class FakeDogRepository : DogRepository {
 
