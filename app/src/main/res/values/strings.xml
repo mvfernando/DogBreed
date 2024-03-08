@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dog Breed</string>
+    <string name="dog_image">Dog Image</string>
+    <string name="error">Error</string>
+    <string name="progress">Progress</string>
+    <string name="try_again">Try again</string>
+    <string name="dog_breeds">Dog breeds</string>
+</resources>
